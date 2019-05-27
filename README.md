@@ -1,5 +1,5 @@
 # DataAnalysis
-ِAssignments made for Data Analysis course.Codes implemented in Julia language.
+ِAssignments made for Data Analysis course. Codes implemented in Python programming language.
 
 Course based on book:
 
